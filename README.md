@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning node.js and assembly.
 
 ## Social Media
-- [YouTube Channel](https://www.youtube.com/channel/UC1kwWBP4OQDEI6QOPcuuuGQ)
 - [Discord Server](https://discord.gg/rr6Z5CUhbm)
 
 ##### MY TECH STACK:
